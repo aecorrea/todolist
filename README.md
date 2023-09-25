@@ -1,9 +1,9 @@
-# React + Vite
+# Simple To-Do List App created with React JS. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple app based on a [YouTube Video](https://www.youtube.com/watch?v=TmDNBEdHzVs) with the purpose to learn, use and implement the use of States in React JS.   
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to contact me for further information regarding the code and my services as a developer. 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/agustin-correa-851517136/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aecorrea/)
 # todolist
